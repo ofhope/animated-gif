@@ -1,3 +1,3 @@
-module github.com/ofhope/animated-gif
+module github.com/ofhope/lissajous-curves
 
 go 1.15
